@@ -36,6 +36,8 @@ In this work, we utilize the 7Scenes dataset, a well-known benchmark to evaluate
 
 ## Results
 The results demonstrate that all variants of the CoAtXNet model achieve competitive performance across different scenes, with CoAtXNet-4 showing the best overall accuracy in terms of both translation and orientation errors.
+![CoAtXNet Architecture](https://github.com/Husseinhhameed/CoAtXnet/blob/main/result.png)
+![CoAtXNet Architecture](https://github.com/Husseinhhameed/CoAtXnet/blob/main/result2.png)
 
 ## Discussion
 The experimental results highlight the superior performance of the CoAtXNet model in the domain of absolute pose regression. By combining the strengths of traditional Convolutional Neural Networks (CNNs) with transformers, CoAtXNet effectively utilizes both local and global features, leading to improvements in position and orientation accuracy.
