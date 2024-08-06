@@ -1,4 +1,4 @@
-# 7Scenes Dataset
+#  7Scenes Dataset
 
 The 7Scenes dataset is a widely used benchmark for evaluating vision-based camera localization methods. It contains sequences of RGB-D images captured in seven different indoor scenes with a handheld Kinect RGB-D camera. Each scene presents various challenges such as motion blur, varying lighting conditions, and texture-less surfaces, making it ideal for testing the robustness of camera localization algorithms.
 
