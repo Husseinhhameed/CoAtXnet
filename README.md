@@ -60,5 +60,6 @@ CoAtXNet represents a substantial advancement in the field of camera localizatio
 - `Model.py`: Script to define the CoAtXNet model.
 - `LoadData.py`: Script to load and prepocess data from 7sence dataset.
 
-
+## Acknowledgements
+We used the CoAtNet implementation from [CoAtNet PyTorch](https://github.com/Husseinhhameed/coatnet-pytorch).
 
