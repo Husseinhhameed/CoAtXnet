@@ -52,7 +52,11 @@ CoAtXNet represents a substantial advancement in the field of camera localizatio
     - Follow the instructions in the notebook to run the complete implementation
 
 ## Repository Contents
-- `train.py`: Script to train the CoAtXNet model.
 - `CoAtXNet.ipynb`: Jupyter notebook for running the complete implementation on Google Colab.
 - `requirements.txt`: List of dependencies required to run the code.
+- `Trainig.py`: Script to train the CoAtXNet model.
+- `Model.py`: Script to define the CoAtXNet model.
+- `LoadData.py`: Script to load and prepocess data from 7sence dataset.
+
+
 
