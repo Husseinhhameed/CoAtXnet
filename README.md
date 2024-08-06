@@ -3,7 +3,7 @@
 ## Overview
 
 CoAtXNet is a hybrid model that leverages the strengths of both Convolutional Neural Networks (CNNs) and Transformers to enhance vision-based camera localization. By integrating RGB and depth images through cross-attention mechanisms, CoAtXNet significantly improves feature representation and bidirectional information flow between modalities. This approach combines the local feature extraction capabilities of CNNs with the global context modeling strengths of Transformers, resulting in superior performance across various indoor scenes.
-![CoAtXNet Architecture](https://github.com/Husseinhhameed/CoAtXnet/blob/main/Architecture.png)
+![CoAtXNet Architecture](https://github.com/Husseinhhameed/CoAtXnet/blob/main/Images/Architecture.png)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Methodology](#methodology)
@@ -37,8 +37,8 @@ In this work, we utilize the 7Scenes dataset, a well-known benchmark to evaluate
 
 ## Results
 The results demonstrate that all variants of the CoAtXNet model achieve competitive performance across different scenes, with CoAtXNet-4 showing the best overall accuracy in terms of both translation and orientation errors.
-![CoAtXNet Architecture](https://github.com/Husseinhhameed/CoAtXnet/blob/main/result.png)
-![CoAtXNet Architecture](https://github.com/Husseinhhameed/CoAtXnet/blob/main/result2.png)
+![CoAtXNet Architecture](https://github.com/Husseinhhameed/CoAtXnet/blob/main/Images/result.png)
+![CoAtXNet Architecture](https://github.com/Husseinhhameed/CoAtXnet/blob/main/Images/result2.png)
 
 ## Discussion
 The experimental results highlight the superior performance of the CoAtXNet model in the domain of absolute pose regression. By combining the strengths of traditional Convolutional Neural Networks (CNNs) with transformers, CoAtXNet effectively utilizes both local and global features, leading to improvements in position and orientation accuracy.
