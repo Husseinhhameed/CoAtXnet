@@ -13,6 +13,7 @@ CoAtXNet is a hybrid model that leverages the strengths of both Convolutional Ne
 - [Discussion](#discussion)
 - [Conclusion](#conclusion)
 - [How to Use](#how-to-use)
+- [Contact](#contact)
 
 ## Introduction
 Camera localization, the process of determining a camera’s position and orientation within an environment, plays a pivotal role in the functionality of several systems. Traditional localization methods, including those based on structure and convolutional neural networks (CNNs), often encounter limitations in dynamic or visually complex environments.
@@ -63,3 +64,5 @@ CoAtXNet represents a substantial advancement in the field of camera localizatio
 ## Acknowledgements
 We used the CoAtNet implementation from [CoAtNet PyTorch](https://github.com/Husseinhhameed/coatnet-pytorch).
 
+## Contact
+If you have any questions or need further assistance, please feel free to email Hossein Hasan at hossein.h.hasan@gmail.com.
