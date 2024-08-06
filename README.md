@@ -12,6 +12,7 @@ CoAtXNet is a hybrid model that leverages the strengths of both Convolutional Ne
 - [Results](#results)
 - [Discussion](#discussion)
 - [Conclusion](#conclusion)
+- [How to Use](#how-to-use)
 
 ## Introduction
 Camera localization, the process of determining a camera’s position and orientation within an environment, plays a pivotal role in the functionality of several systems. Traditional localization methods, including those based on structure and convolutional neural networks (CNNs), often encounter limitations in dynamic or visually complex environments.
@@ -42,4 +43,16 @@ The experimental results highlight the superior performance of the CoAtXNet mode
 ## Conclusion
 CoAtXNet represents a substantial advancement in the field of camera localization by effectively combining CNNs and Transformers through cross-attention mechanisms. This work not only enhances the accuracy and robustness of camera localization but also opens new avenues for research in hybrid models for various vision-based tasks.
 
+## How to Use
+
+
+1. To run the implementation on Google Colab, open the provided `CoAtXNet.ipynb` notebook:
+    - Open [Google Colab](https://colab.research.google.com/)
+    - Upload the `CoAtXNet.ipynb` notebook
+    - Follow the instructions in the notebook to run the complete implementation
+
+## Repository Contents
+- `train.py`: Script to train the CoAtXNet model.
+- `CoAtXNet.ipynb`: Jupyter notebook for running the complete implementation on Google Colab.
+- `requirements.txt`: List of dependencies required to run the code.
 
