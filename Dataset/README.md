@@ -14,11 +14,11 @@ The 7Scenes dataset is a widely used benchmark for evaluating vision-based camer
 ## Download
 You can download the dataset from the [https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/).
 
------------------------------------------------------------------------------------------------------------------------
 
 ## Reference
 For more details, refer to the original paper:[https://www.microsoft.com/en-us/research/publication/real-time-rgb-d-camera-relocalization/]
 
+-----------------------------------------------------------------------------------------------------------------------
 
 #  12Scenes Dataset
 
