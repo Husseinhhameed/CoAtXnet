@@ -32,7 +32,7 @@ We implemented our proposed model using PyTorch, leveraging the Adam optimizer w
 The network was trained using the K-fold cross-validation method with 5 splits. Each fold was trained for 150 epochs. The learning rate was dynamically adjusted using a ReduceLROnPlateau scheduler that drops it by a factor of 0.1 if the validation loss does not improve over 10 epochs.
 
 ## Experiments
-In this work, we utilize the 7Scenes dataset, a well-known benchmark to evaluate vision-based camera localization. It includes a collection of seven different indoor scenes captured with a handheld Kinect RGB-D camera device.
+In this work, we utilize the 7Scenes and 12Scenes dataset, a well-known benchmarks to evaluate vision-based camera localization. both datasets includes a collection of RGBD data at different indoor scenes.
 
 ## Results
 The results demonstrate that all variants of the CoAtXNet model achieve competitive performance across different scenes, with CoAtXNet-4 showing the best overall accuracy in terms of both translation and orientation errors.
