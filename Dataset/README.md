@@ -33,8 +33,6 @@ The 12Scenes dataset is another comprehensive benchmark for camera localization,
 ## Download
 You can download the 12Scenes dataset from [https://graphics.stanford.edu/projects/reloc/#data/).
 
-## Usage
-To use the 12Scenes dataset in your experiments, ensure your model is compatible with RGB-D data and can handle complex, larger-scale indoor environments.
 
 ## Reference
 For more details, refer to the original paper:[https://graphics.stanford.edu/projects/reloc/#data/]
