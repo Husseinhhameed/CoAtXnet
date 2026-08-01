@@ -1,7 +1,15 @@
 # CoAtXNet: A Dual-Stream Hybrid Transformer Based on Relative Cross-Attention for End-to-End Camera Localization from RGB-D images
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Husseinhhameed/CoAtXnet)
+<p align="center">
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Research-orange.svg)
+![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-purple.svg)
+
+</p>
 ## Overview
 
 CoAtXNet is a hybrid model that leverages the strengths of both Convolutional Neural Networks (CNNs) and Transformers to enhance vision-based camera localization. By integrating RGB and depth images through cross-attention mechanisms, CoAtXNet significantly improves feature representation and bidirectional information flow between modalities. This approach combines the local feature extraction capabilities of CNNs with the global context modeling strengths of Transformers, resulting in superior performance across various indoor scenes.
