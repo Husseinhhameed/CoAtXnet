@@ -1,7 +1,7 @@
 # CoAtXNet: A Dual-Stream Hybrid Transformer Based on Relative Cross-Attention for End-to-End Camera Localization from RGB-D images
 
 <p align="center">
-
+[![Ask DeepWiki](https://img.shields.io/badge/🤖_Ask-DeepWiki-007EC6?style=for-the-badge)](https://deepwiki.com/Husseinhhameed/CoAtXnet)
   <!-- Tech Stack & Status -->
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
@@ -14,7 +14,6 @@
   </a>
 </p>
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Husseinhhameed/CoAtXnet)
 
 > **Note on Licensing:** This project is free for academic, research, and non-commercial use. For commercial licensing inquiries, please contact the author directly.
 
