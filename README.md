@@ -1,4 +1,3 @@
-# CoAtXNet: A Dual-Stream Hybrid Transformer Based on Relative Cross-Attention for End-to-End Camera Localization from RGB-D images
 
 # CoAtXNet: A Dual-Stream Hybrid Transformer Based on Relative Cross-Attention for End-to-End Camera Localization from RGB-D images
 
